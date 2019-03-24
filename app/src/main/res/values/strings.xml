@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AppCamp</string>
+    <string name="button">Notfall</string>
+    <string name="find_contact">Wähle deinen Notfallkontakt</string>
+</resources>
